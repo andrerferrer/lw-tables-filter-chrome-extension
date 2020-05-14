@@ -9,11 +9,12 @@
 Remember to smile 🤓✌
 
 ### How to add it to chrome extensions
-Go to chrome://extensions/.
+* Go to `chrome://extensions/` ;
 
-At the top right, turn on Developer mode.
+* At the top right, turn on Developer mode;
 
-Click Load unpacked.
+* Click Load unpacked;
 
-Find and select the downloaded folder.
+* Find and select the downloaded folder;
 
+* Drag the folder and drop it there.
