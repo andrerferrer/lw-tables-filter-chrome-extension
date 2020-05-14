@@ -10,6 +10,10 @@ Remember to smile 🤓✌
 
 ### How to add it to chrome extensions
 Go to chrome://extensions/.
+
 At the top right, turn on Developer mode.
+
 Click Load unpacked.
+
 Find and select the downloaded folder.
+
