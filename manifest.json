@@ -1,7 +1,7 @@
 {
-  "name": "Le wagon tables filter",
+  "name": "LW tables filter",
   "version": "1.0",
-  "description": "a table filter for the day dashboard",
+  "description": "a table filter for the day dashboard created by andrerferrer",
   "manifest_version": 2,
   "background": {
     "scripts": ["background.js"]
