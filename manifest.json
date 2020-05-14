@@ -1,0 +1,15 @@
+{
+  "name": "Le wagon tables filter",
+  "version": "1.0",
+  "description": "a table filter for the day dashboard",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_icon": "icon.png"
+  }
+}
